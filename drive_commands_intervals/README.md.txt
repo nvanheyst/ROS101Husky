@@ -1,0 +1,5 @@
+-Practising publishers, specifically twist msgs
+-Instructions were given in text format and tried to implement in a python script
+-It works, but without feedback from odometry it's highly innacurate. Lowering speed helps a little bit, but not enough
+-If I were to improve the program I would subscribe to odometry and incorporate feedback into the prescribed movements
+
