@@ -1,4 +1,9 @@
 - Practising publishers, specifically twist msgs
 - Instructions were given in text format and tried to implement in a python script
-- It works, but without feedback from odometry it's highly innacurate. Lowering speed helps a little bit, but not enough
-- If I were to improve the program I would subscribe to odometry and incorporate feedback into the prescribed movements
+- I learned how innacurate commands are without feedback (velocity command over time to get position) 
+
+
+driving_command_interval.py 		is the original with velocity commands over time
+instructionsforcomandsandintervals.txt  contains instructions in text format
+odometry_feedback_test.py 		tests driving using odometry feedback - significantly more accurate
+odometry_subscriber.py		 	a simple subscriber to get odometry for debugging
