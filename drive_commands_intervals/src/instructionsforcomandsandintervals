@@ -1,8 +1,0 @@
-1 connected the robot to computer at 7pm, standby
-2 Python controlled it to start working at 12am
-3 move backward 3 meters, standby for 10 minutes
-4 turn 90 degrees, standby for 10 minutes
-5 repeat 4
-6 repeat 4
-7 turn 90 degree
-8 repeat 3,4,5,6,7 for 7 times (totally move backward 24 foot from original spot, estimate finish time before 7am)
